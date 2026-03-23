@@ -102,6 +102,11 @@ Pentra focuses on:
 * Reducing manual thinking during reconnaissance
 
 ---
+## Screenshot
+
+![Pentra Output](screenshots/1.png)
+![Pentra Output](screenshots/2.png)
+![Pentra Output](screenshots/3.png)
 
 ## Author
 
