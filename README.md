@@ -105,13 +105,13 @@ Pentra focuses on:
 ## Screenshots
 
 ### Scan Output
-![Scan](screenshots/1.png)
+![Scan](screenshop/1.png)
 
 ### Analysis and Findings
-![Analysis](screenshots/2.png)
+![Analysis](screenshop/2.png)
 
 ### Enumeration Guidance
-![Commands](screenshots/3.png)
+![Commands](screenshop/3.png)
 
 ## Author
 
